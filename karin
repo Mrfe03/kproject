@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karin</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="header">
+    <div class="container">
+        <nav>
+            <img src="images/k.jpg" class="k">
+            <ul>
+                <li><a href="#header">Home</a></li>
+                <li><a href="#abaout">Abaout</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#interest">Interest</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#award">Award</a></li>
+            </ul>
+        </nav>
+        <div class="header-text">
+            <p>Cooking and Barista</p>
+            <h1>Hello, I am <span>Siti Frihatini</span> <br> Karin From Indonesia</h1>
+        </div>
+    </div>
+</div>
+<!--abaout-->
+<div id="abaout">
+    <div class="container">
+        <div class="row">
+            <div class="abaout-col-1">
+                <img src="images/doraemon.png">
+            </div>
+            <div class="abaout-col-2">
+                <h1 class="sub-title">Abaout Me</h1>
+                <p>Saya tinggal di cianjur jawa barat, indonesia saya suka memasak dan saya mulai memasak ketika saya masih di bangku SMP saya mulai serius memasak ketika saya masuk ke SMK Jurusan Teknik Pengolahan Hasil Pertanian, Selain memasak saya juga memiliki hoby olahraga, saya pernah emndapat juara 2 lomba bulutangkis dan juara 2 lomba atletik tolak peluruh, selain olah raga saya juga pernah ikut organi sasi selama mengukiti organisasi saya pernah juara 1 lomba bongkar pasang tandu di PMR, dan juara 2 loma Paskibra.</p>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!------ experience------->
+<div id="experience">
+    <div class="countainer">
+        <h1 class="sub-title">My Experience</h1>
+        <div class="experience-list">
+            <div>
+                <h2>Cooking</h2>
+                <p>Bekerja di Nicoles Chocolaterie Sebagai Chef</p>
+                <a href="#">Learn more</a>
+            </div>
+            <div>
+                <h2>Barista</h2>
+                <p>Bekerja di Spatula Sebagai Barista</p>
+                <a href="#">Learn more</a>
+            </div>
+            <div>
+                <h2>Cashier</h2>
+                <p>Bekerja di Spatula Sebagai Cashier</p>
+                <a href="#">Learn more</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ------- Education -------- -->
+<div id="education">
+    <div class="countainer">
+        <h1 class="sub-title">My Education</h1>
+        <div class="education-list">
+            <div class="education">
+                <div class="layer">
+                    <h3>Sekolah Dasar Negeri 4</h3>
+                    <p>Alamat : Kp.Pasekon Desa Cipanas Kecamatan Cipanas Kabupaten Cianjur, Jawa Barat</p>
+                </div>
+            </div>
+            <div class="education">
+                <div class="layer">
+                    <h3>Sekolah Menengah Pertama Negeri 1</h3>
+                    <p>Alamat: Kp.Tugaran Desa.Cipanas Kecamatan.Cipanas Kabupaten Cianjur, Jawa Barat </p>
+                </div>
+            </div>
+            <div class="education">
+                <div class="layer">
+                    <h3>Sekolah Menengah Atas Man2 Cianjur</h3>
+                    <p>Alamat: Kp.Pacet Desa.Pacet Kecamatan.Pacet  Kabupaten Cianjur, Jawa Barat </p>
+                </div>
+            </div>
+        </div>
+        <a href="#" class="btn">See More</a>
+    </div>
+</div>
+<!-- ----- interest ------ -->
+<div id="interest">
+    <div class="countainer">
+        <h1 class="sub-title">My Interest</h1>
+        <div class="interest-list">
+            <div class="interest">
+                <div class="layer">
+                    <h4>Menjadi Instruktur Memasak / Guru</h4>
+                    <p>Ingin menjadi Instruktur memasak untuk setiap orang agar bisa saling berbagi ilmu dan pengalaman dalam bidang memasak</p>
+                </div>
+            </div>
+            <div class="interest">
+                <div class="layer">
+                    <h4>Mempelajari Pastry/Savory</h4>
+                    <p>Mendalami dunia Pastry dalam membuat hidangan penutup, kueh dan mempelajari Savory dalam menyajikan hidangan western dan asian</p>
+                </div>
+            </div>
+            <div class="interest">
+                <div class="layer">
+                    <h4>Kursus Menjahit dan Designer Grafis</h4>
+                    <p>Selain ingin mempelajari dunia kuliner saya pun tertarik untuk mempelajari bidang menjahit, dam menggabar secara manual dan digital</p>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+<!-- ------- skills ------- -->
+<div id="skills">
+    <div class="countainer">
+        <h1 class="sub-title">My Skills</h1>
+        <div class="skills-list">
+            <div class="skills">
+                <div class="layer">
+                    <h4>Memasak hidangan utama Western dan Asian</h4>
+                    <p>Menyajikan hidangan utama di restoran, seperti hidangan Western dan Asian</p>
+                </div>
+            </div>
+            <div class="skills">
+                <div class="layer">
+                    <h4>Membuat Hidangan Penutup/Dessert</h4>
+                    <p>Menyajikan hidangan Penutup Seperti Pudding, Ice Cream Banana Tart, Lava Cake dan yang lainya</p>
+                </div>
+            </div>
+            <div class="skills">
+                <div class="layer">
+                    <h4>Mengoperasikan Komputer</h4>
+                    <p>Mengerti dan bisa mengoperasikan kopunter dalam hal basic seperti MS.Word, MS.Powerponit, Photo Shop, Adobe AI</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ----- award ------- -->
+<div id="award">
+    <div class="countainer">
+        <h1 class="sub-title">My Award</h1>
+        <div class="award-list">
+            <div class="award">
+                <div class="layer">
+                    <h4>Juara 2 Bulitangkis</h4>
+                    <p>Juara 2 dalam ajang lomba Bulutangkis antar kelas saat SMP</p>
+                </div>
+            </div>
+            <div class="award">
+                <div class="layer">
+                    <h4>Juara 2 Tolak Peluru</h4>
+                    <p>Juara 2 dalam ajang lomba Tolak Peluru Pekan Olahraga Wilayah 3 Kabupaten Cianjur saat SMP</p>
+                </div>
+            </div>
+            <div class="award">
+                <div class="layer">
+                    <h4>Juara 3 Menggambar</h4>
+                    <p>Juara 3 lomba Menggambar di acara Hut Sekolah saat masih SMA</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="copyright">
+    <p>Copyright @ Karin Made <i class="fa-solid fa-heart"></i>
+        My Portofolio</p>
+</div>
+
+
+<script>
+
+    var tablinks = document.getElementsByClassName("tab-links");
+    var tabkontens = document.getElementsByClassName("tab-contens");
+    
+    function opentab(tabname){
+        for(tablinks of tablink){
+            tablink.classtlist.remove("active-link");
+        }
+        for(tabcontents of tabcotent){
+            tabcontent.classtlist.remove("active-link");
+        }
+        event.currentTarget.classtlist.add("active-link");
+    }
+
+</script>
+
+</body>
+</html>
